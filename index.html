@@ -420,129 +420,105 @@
       <!-- JavaScript will dynamically load projects here -->
     </div>
     <button id="load-more" class="btn">Load More</button>
-
-      <!-- DOCTOR SAM Project -->
-      <div class="col s12 m6 l4">
-        <div class="card medium">
-          <div class="card-image waves-effect waves-block waves-light">
-            <img alt="DOCTOR SAM project" src="/assets/img/doctor-sam.png" style="height: 100%; width: 100%" class="activator" />
-          </div>
-          <div class="card-content">
-            <span class="card-title activator teal-text hoverline">DOCTOR SAM – AI Healthcare Chatbot<i
-                class="mdi-navigation-more-vert right"></i></span>
-            <p>
-              An AI chatbot designed to assist doctors in pre-screening patient symptoms and summarizing patient history.
-            </p>
-          </div>
-          <div class="card-reveal">
-            <span class="card-title teal-text"><small>Accomplishments</small><i class="mdi-navigation-close right"></i></span>
-            <ul>
-              <li>Supports Thai dialect speech recognition, facilitating communication in rural healthcare settings.</li>
-              <li>Incorporates multi-agent architecture, including Typoon 1.5x and OpenBioLLM, for effective AI-driven healthcare support.</li>
-              <li>Won 1st place in the AI Thailand Hackathon 2024 under the "AI Healthcare" category.</li>
-            </ul>
-          </div>
-        </div>
-      </div>
-
-      <!-- AI Thailand Hackathon Project -->
-      <div class="col s12 m6 l4">
-        <div class="card medium">
-          <div class="card-image waves-effect waves-block waves-light">
-            <img alt="AI Hackathon project" src="/assets/img/ai-hackathon.png" style="height: 100%; width: 100%" class="activator" />
-          </div>
-          <div class="card-content">
-            <span class="card-title activator teal-text hoverline">AI Thailand Hackathon – AI for Healthcare<i
-                class="mdi-navigation-more-vert right"></i></span>
-            <p>
-              Developed state-of-the-art AI solutions to enhance patient care in Thai hospitals.
-            </p>
-          </div>
-          <div class="card-reveal">
-            <span class="card-title teal-text"><small>Accomplishments</small><i class="mdi-navigation-close right"></i></span>
-            <ul>
-              <li>Created AI models for analyzing healthcare data, including real-time predictions for patient care optimization.</li>
-              <li>Utilized transformer models to support healthcare workers in diagnosis and treatment recommendations.</li>
-              <li>Received 1st place in the AI Hackathon 2024 for outstanding contribution to healthcare innovation.</li>
-            </ul>
-          </div>
-        </div>
-      </div>
-
-      <!-- SaFTeX Innovation Hackathon -->
-      <div class="col s12 m6 l4">
-        <div class="card medium">
-          <div class="card-image waves-effect waves-block waves-light">
-            <img alt="SaFTeX project" src="/assets/img/saftex.png" style="height: 100%; width: 100%" class="activator" />
-          </div>
-          <div class="card-content">
-            <span class="card-title activator teal-text hoverline">SaFTeX – Sustainable Innovation for Healthcare<i
-                class="mdi-navigation-more-vert right"></i></span>
-            <p>
-              Developed a healthcare solution focusing on sustainable innovation for bedridden patients.
-            </p>
-          </div>
-          <div class="card-reveal">
-            <span class="card-title teal-text"><small>Accomplishments</small><i class="mdi-navigation-close right"></i></span>
-            <ul>
-              <li>Co-founded the SaFTeX startup at WEDO SCG Hackathon, focusing on smart healthcare solutions for long-term patient care.</li>
-              <li>Used IoT sensors and machine learning models to monitor patients' vitals and ensure sustainable healthcare practices.</li>
-              <li>Won the 1st place award for innovation at WEDO SCG Hackathon 2023.</li>
-            </ul>
-          </div>
-        </div>
-      </div>
-
-      <!-- Super AI Engineer SS4 Hackathon -->
-      <div class="col s12 m6 l4">
-        <div class="card medium">
-          <div class="card-image waves-effect waves-block waves-light">
-            <img alt="AI Engineer project" src="/assets/img/ai-engineer.png" style="height: 100%; width: 100%" class="activator" />
-          </div>
-          <div class="card-content">
-            <span class="card-title activator teal-text hoverline">Super AI Engineer SS4 Hackathon – Image Captioning<i
-                class="mdi-navigation-more-vert right"></i></span>
-            <p>
-              Designed an AI model to caption images using multimodal learning.
-            </p>
-          </div>
-          <div class="card-reveal">
-            <span class="card-title teal-text"><small>Accomplishments</small><i class="mdi-navigation-close right"></i></span>
-            <ul>
-              <li>Developed a transformer-based model for accurate image captioning, enhancing accessibility for visually impaired users.</li>
-              <li>Achieved 1st place in the Super AI Engineer SS4 Hackathon, recognized for innovation in image processing and AI.</li>
-            </ul>
-          </div>
-        </div>
-      </div>
-
-      <!-- Brain Hackathon 2023 -->
-      <div class="col s12 m6 l4">
-        <div class="card medium">
-          <div class="card-image waves-effect waves-block waves-light">
-            <img alt="Brain Hackathon project" src="/assets/img/brain-hackathon.png" style="height: 100%; width: 100%" class="activator" />
-          </div>
-          <div class="card-content">
-            <span class="card-title activator teal-text hoverline">Brain Hackathon 2023 – AI & Neuroscience<i
-                class="mdi-navigation-more-vert right"></i></span>
-            <p>
-              Built an AI model for real-time brainwave analysis and mental health prediction.
-            </p>
-          </div>
-          <div class="card-reveal">
-            <span class="card-title teal-text"><small>Accomplishments</small><i class="mdi-navigation-close right"></i></span>
-            <ul>
-              <li>Utilized AI models to process EEG data, detecting early signs of mental health issues.</li>
-              <li>Integrated AI with neuroscience to improve real-time brainwave monitoring systems.</li>
-              <li>Won 1st place in the Brain Hackathon 2023 for cutting-edge AI research in neuroscience.</li>
-            </ul>
-          </div>
-        </div>
-      </div>
   </div>
+</section>
 
-    </div>
-  </div>
+<script>
+  const projects = [
+    {
+      title: "DOCTOR SAM – AI Healthcare Chatbot",
+      image: "/assets/img/doctor-sam.png",
+      description: "An AI chatbot designed to assist doctors in pre-screening patient symptoms and summarizing patient history.",
+      accomplishments: [
+        "Supports Thai dialect speech recognition, facilitating communication in rural healthcare settings.",
+        "Incorporates multi-agent architecture, including Typoon 1.5x and OpenBioLLM, for effective AI-driven healthcare support.",
+        "Won 1st place in the AI Thailand Hackathon 2024 under the 'AI Healthcare' category."
+      ]
+    },
+    {
+      title: "AI Thailand Hackathon – AI for Healthcare",
+      image: "/assets/img/ai-hackathon.png",
+      description: "Developed state-of-the-art AI solutions to enhance patient care in Thai hospitals.",
+      accomplishments: [
+        "Created AI models for analyzing healthcare data, including real-time predictions for patient care optimization.",
+        "Utilized transformer models to support healthcare workers in diagnosis and treatment recommendations.",
+        "Received 1st place in the AI Hackathon 2024 for outstanding contribution to healthcare innovation."
+      ]
+    },
+    {
+      title: "SaFTeX – Sustainable Innovation for Healthcare",
+      image: "/assets/img/saftex.png",
+      description: "Developed a healthcare solution focusing on sustainable innovation for bedridden patients.",
+      accomplishments: [
+        "Co-founded the SaFTeX startup at WEDO SCG Hackathon, focusing on smart healthcare solutions for long-term patient care.",
+        "Used IoT sensors and machine learning models to monitor patients' vitals and ensure sustainable healthcare practices.",
+        "Won the 1st place award for innovation at WEDO SCG Hackathon 2023."
+      ]
+    },
+    {
+      title: "Super AI Engineer SS4 Hackathon – Image Captioning",
+      image: "/assets/img/ai-engineer.png",
+      description: "Designed an AI model to caption images using multimodal learning.",
+      accomplishments: [
+        "Developed a transformer-based model for accurate image captioning, enhancing accessibility for visually impaired users.",
+        "Achieved 1st place in the Super AI Engineer SS4 Hackathon, recognized for innovation in image processing and AI."
+      ]
+    },
+    {
+      title: "Brain Hackathon 2023 – AI & Neuroscience",
+      image: "/assets/img/brain-hackathon.png",
+      description: "Built an AI model for real-time brainwave analysis and mental health prediction.",
+      accomplishments: [
+        "Utilized AI models to process EEG data, detecting early signs of mental health issues.",
+        "Integrated AI with neuroscience to improve real-time brainwave monitoring systems.",
+        "Won 1st place in the Brain Hackathon 2023 for cutting-edge AI research in neuroscience."
+      ]
+    }
+  ];
+
+  let loadedProjects = 0;
+
+  function loadProjects() {
+    const recentProjectsDiv = document.getElementById('recent-projects');
+    const projectsToLoad = projects.slice(loadedProjects, loadedProjects + 2); // Load two projects at a time
+
+    projectsToLoad.forEach((project) => {
+      const projectCard = document.createElement('div');
+      projectCard.className = "col s12 m6 l4";
+
+      projectCard.innerHTML = `
+        <div class="card medium">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img alt="${project.title}" src="${project.image}" style="height: 100%; width: 100%" class="activator" />
+          </div>
+          <div class="card-content">
+            <span class="card-title activator teal-text hoverline">${project.title}<i class="mdi-navigation-more-vert right"></i></span>
+            <p>${project.description}</p>
+          </div>
+          <div class="card-reveal">
+            <span class="card-title teal-text"><small>Accomplishments</small><i class="mdi-navigation-close right"></i></span>
+            <ul>
+              ${project.accomplishments.map(acc => `<li>${acc}</li>`).join('')}
+            </ul>
+          </div>
+        </div>
+      `;
+
+      recentProjectsDiv.appendChild(projectCard);
+    });
+
+    loadedProjects += projectsToLoad.length;
+
+    if (loadedProjects >= projects.length) {
+      document.getElementById('load-more').style.display = 'none'; // Hide button if all projects are loaded
+    }
+  }
+
+  document.getElementById('load-more').addEventListener('click', loadProjects);
+
+  // Load initial projects when the page loads
+  loadProjects();
+</script>
 </section>
 
 
