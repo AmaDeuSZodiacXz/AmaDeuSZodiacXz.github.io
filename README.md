@@ -11,7 +11,7 @@
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Repository Clone Information
-This repository is a clone of [https://github.com/varadbhogayata/varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io). Because this repository is public on GitHub, it is good practice to mention the source of the code when reusing open-source projects.
+This repository is a clone of [https://github.com/varadbhogayata/varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io).
 
 ### Website Preview
 <p align="center"> 
@@ -47,12 +47,12 @@ This repository is a clone of [https://github.com/varadbhogayata/varadbhogayata.
 
 ✔️ **Projects**
   - **Doctor SAM:** An AI-based chatbot for healthcare diagnosis and pre-screening, using Thai dialect processing and multimodal AI systems.
-  - **Large Language Model (LLM) Research:** I have developed and fine-tuned models such as **DoodNiLT**, which has achieved benchmark performance comparable to **GPT-4.0** in Thai language tasks.\
+  - **Large Language Model (LLM) Research:** I have developed and fine-tuned models such as **DoodNiLT**, which has achieved benchmark performance comparable to **GPT-4.0** in Thai language tasks.
   - **Multimodal AI Systems:** Focused on combining visual and textual inputs to assist in medical diagnoses.
 
 ✔️ **Skills**
-  - **Artificial Intelligence**: NLP, Machine Learning, Neural Networks\
-  - **Languages**: Thai (native), English (fluent), basic Japanese and Chinese\
+  - **Artificial Intelligence**: NLP, Machine Learning, Neural Networks
+  - **Languages**: Thai (native), English (fluent), basic Japanese and Chinese
   - **Technical Tools**: Python, TensorFlow, PyTorch, Docker, Git
 
 ✔️ **Education**
@@ -60,7 +60,7 @@ This repository is a clone of [https://github.com/varadbhogayata/varadbhogayata.
   - **King Mongkut’s University of Technology Thonburi (KMUTT)**: B.Sc. in Computer Engineering (International Program)
 
 ✔️ **Contact Info**
-  - LinkedIn: [Pakawat Phasook](https://www.linkedin.com/in/pakawat-phasook-305274229/)\
+  - LinkedIn: [Pakawat Phasook](https://www.linkedin.com/in/pakawat-phasook-305274229/)
   - GitHub: [AmaDeuSZodiacXz](https://github.com/AmaDeuSZodiacXz)
 
 ✔️ **Resume**
