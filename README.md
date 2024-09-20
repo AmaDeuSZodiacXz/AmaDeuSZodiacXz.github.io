@@ -71,6 +71,9 @@ This repository is a clone of [https://github.com/varadbhogayata/varadbhogayata.
 * [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
 * [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library for typing animations.
 
+#Activity ECE444 Software Engineer
+![Activity 01 Screenshot](https://github.com/AmaDeuSZodiacXz/AmaDeuSZodiacXz.github.io/blob/master/Activity_01.png)
+
 ## Contributing 💡
 #### Step 1
 
