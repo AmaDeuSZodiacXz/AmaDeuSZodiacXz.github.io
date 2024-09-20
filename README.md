@@ -39,31 +39,31 @@ This repository is a clone of [https://github.com/varadbhogayata/varadbhogayata.
 
 ## Sections 📚
 
-✔️ **About Me**\
+✔️ **About Me**
   - My name is **Pakawat Phasook**. I am an exchange student at the **University of Toronto**, studying **Computer Engineering** at **King Mongkut's University of Technology Thonburi (KMUTT)**. I specialize in **Artificial Intelligence (AI)** and have a strong passion for developing AI-based solutions in healthcare and other domains.
 
-✔️ **Experience**\
+✔️ **Experience**
   - I am the lead developer and researcher behind **Doctor SAM**, an AI-driven healthcare chatbot designed to assist doctors in pre-screening patient symptoms, particularly in small public hospitals in Thailand. The project won the **AI Thailand Hackathon 2024** and has helped improve healthcare delivery in underserved areas.
 
-✔️ **Projects**\
-  - **Doctor SAM:** An AI-based chatbot for healthcare diagnosis and pre-screening, using Thai dialect processing and multimodal AI systems.\
+✔️ **Projects**
+  - **Doctor SAM:** An AI-based chatbot for healthcare diagnosis and pre-screening, using Thai dialect processing and multimodal AI systems.
   - **Large Language Model (LLM) Research:** I have developed and fine-tuned models such as **DoodNiLT**, which has achieved benchmark performance comparable to **GPT-4.0** in Thai language tasks.\
   - **Multimodal AI Systems:** Focused on combining visual and textual inputs to assist in medical diagnoses.
 
-✔️ **Skills**\
+✔️ **Skills**
   - **Artificial Intelligence**: NLP, Machine Learning, Neural Networks\
   - **Languages**: Thai (native), English (fluent), basic Japanese and Chinese\
   - **Technical Tools**: Python, TensorFlow, PyTorch, Docker, Git
 
-✔️ **Education**\
+✔️ **Education**
   - **University of Toronto**: Exchange Program (2024)\
   - **King Mongkut’s University of Technology Thonburi (KMUTT)**: B.Sc. in Computer Engineering (International Program)
 
-✔️ **Contact Info**\
+✔️ **Contact Info**
   - LinkedIn: [Pakawat Phasook](https://www.linkedin.com/in/pakawat-phasook-305274229/)\
   - GitHub: [AmaDeuSZodiacXz](https://github.com/AmaDeuSZodiacXz)
 
-✔️ **Resume**\
+✔️ **Resume**
   - To view a live example, **[click here](https://AmaDeuSZodiacXz.github.io/)**
 
 ## Tools Used 🛠️
