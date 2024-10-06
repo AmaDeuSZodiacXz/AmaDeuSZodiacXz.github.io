@@ -13,16 +13,6 @@
 ### Repository Clone Information
 This repository is a clone of [https://github.com/varadbhogayata/varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io).
 
-### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://AmaDeuSZodiacXz.github.io" target="_blank"><img src="examples/preview.gif">
-  </a>
-  </kbd>
-</p>
-
-:star: Star me on GitHub — it helps!
-
 ## Features 📋
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML5 & CSS3\
